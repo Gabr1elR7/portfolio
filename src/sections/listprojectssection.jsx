@@ -31,6 +31,7 @@ const ListProjectsSection = ({ projects }) => {
 							progress={p.progress}
 							icon={p.icon}
 							status={p.status}
+							url={p.url}
 						/>
 					);
 				})}

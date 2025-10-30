@@ -246,6 +246,15 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'frontend',
+		url: '',
+	},
+	{
+		title: 'URL Shortener API',
+		progress: 100,
+		icon: RocketIcon,
+		status: 'Completed',
+		tag: 'backend',
+		url: 'https://github.com/Gabr1elR7/url-shortener',
 	},
 	{
 		title: 'My Drive API',
@@ -253,6 +262,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'backend',
+		url: '',
 	},
 	{
 		title: 'Locky App',
@@ -260,6 +270,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'mobile',
+		url: '',
 	},
 	{
 		title: 'My Drive Webapp',
@@ -267,6 +278,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'application',
+		url: '',
 	},
 	{
 		title: 'Animations JavaScript',
@@ -274,6 +286,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'frontend',
+		url: '',
 	},
 	{
 		title: 'Design System Locky App',
@@ -281,6 +294,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'mobile',
+		url: '',
 	},
 	{
 		title: 'Design System Locky Web',
@@ -288,6 +302,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'Completed',
 		tag: 'frontend',
+		url: '',
 	},
 	{
 		title: 'CRM Automation Web',
@@ -295,6 +310,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'In Progress',
 		tag: 'frontend',
+		url: '',
 	},
 	{
 		title: 'CRM Automation Server Integration',
@@ -302,6 +318,7 @@ const DATA_PROJECTS = [
 		icon: RocketIcon,
 		status: 'In Progress',
 		tag: 'backend',
+		url: '',
 	},
 ];
 
